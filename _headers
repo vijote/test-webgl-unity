@@ -1,0 +1,4 @@
+# root path:
+index.html
+  # headers for that path:
+  Content-Encoding: gzip
