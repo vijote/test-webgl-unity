@@ -5,4 +5,4 @@
   Content-Encoding: gzip
 
 /Build/jadev-jam-web.wasm.gz
-  Content-Encoding: application/wasm
+  Content-Type: application/wasm
