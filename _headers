@@ -1,5 +1,2 @@
 /Build/*.gz
   Content-Encoding: gzip
-
-/Build/*.wasm.gz
-  Content-Encoding: "application/wasm"
