@@ -1,7 +1,4 @@
-/Build/jadev-jam-web.data.gz
-  Content-Encoding: gzip
-
-/Build/jadev-jam-web.framework.js.gz
+/Build/*.gz
   Content-Encoding: gzip
 
 /Build/jadev-jam-web.wasm.gz
