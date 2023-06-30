@@ -3,3 +3,6 @@
 
 /Build/jadev-jam-web.wasm.gz
   Content-Type: application/wasm
+
+Build/test-webgl-unity.wasm.gz
+  Content-Type: application/wasm
