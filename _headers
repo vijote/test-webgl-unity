@@ -1,7 +1,7 @@
 /Build/*.gz
   Content-Encoding: gzip
 
-/Build/jadev-jam-web.wasm.gz
+Build/jadev-jam-web.wasm.gz
   Content-Type: application/wasm
 
 Build/test-webgl-unity.wasm.gz
